@@ -1,0 +1,25 @@
+body {
+    background-image:url('https://img.freepik.com/free-vector/stylish-white-background-with-diagonal-lines_1017-33199.jpg?w=826&t=st=1679057651~exp=1679058251~hmac=95340d26f36cb2d3bda739b5eef257c39a60915ad113fb95a182cb0dbae69e56');
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-color:rgb(201, 196, 196);
+}
+
+.header,p {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    
+}
+.form-group {
+   margin-left: 50px;
+   margin-right: 50px;
+}
+.submit {
+    display: flex;
+    justify-content: center;
+    
+}
+h1,p,label {
+    font-family: 'Roboto', sans-serif;
+}
